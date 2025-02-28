@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e9fcd3d8-c4c5-4d69-af08-4ffc9958d9eb" name="Changes" comment="bb">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Matura-prob-grudzien-2024-zad-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Matura-prob-grudzien-2024-zad-3.py" afterDir="false" />
-    </list>
+    <list default="true" id="e9fcd3d8-c4c5-4d69-af08-4ffc9958d9eb" name="Changes" comment="zad 3.3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +79,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740738958810</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="zad 3.3">
+      <option name="closed" value="true" />
+      <created>1740770543901</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740770543901</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -98,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bb" />
-    <option name="LAST_COMMIT_MESSAGE" value="bb" />
+    <MESSAGE value="zad 3.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="zad 3.3" />
   </component>
 </project>
